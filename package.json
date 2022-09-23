@@ -1,0 +1,16 @@
+{
+  "name": "@unzoa/react-keepalive",
+  "version": "1.0.1",
+  "description": "react@^17.0.2，react-router-dom@^6",
+  "main": "index.js",
+  "author": "unzoa",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unzoa/react-keepalive.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["react", "react-router-dom", "v6", "keepalive", "hook"],
+  "license": "ISC"
+}
